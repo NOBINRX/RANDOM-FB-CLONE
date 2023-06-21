@@ -12,4 +12,4 @@
 + ```git clone https://github.com/NOBINRX/RANDOM-FB-CLONE```
 + ```cd RANDOM-FB-CLONE```
 + ```git pull```
-+ ```python random_enc.py```
++ ```python nobin_clone_enc.py```
