@@ -12,4 +12,4 @@
 + ```git clone https://github.com/NOBINRX/RANDOM-FB-CLONE```
 + ```cd RANDOM-FB-CLONE```
 + ```git pull```
-+ ```python PARADOX_turag_enc.py```
++ ```python TORNANIRHEDA_turag_enc.py```
